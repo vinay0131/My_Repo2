@@ -5,6 +5,5 @@ public class GitDemo {
  public void demo() {
 	 
 	 System.out.println("Hi");
-	 
  }
 }
